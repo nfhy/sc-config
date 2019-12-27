@@ -1,0 +1,4 @@
+data
+  user: dev-user
+  password: dev-pass
+  version: 1.0
