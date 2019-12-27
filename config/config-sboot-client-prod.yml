@@ -1,0 +1,4 @@
+data
+  user: prod-user
+  password: prod-pass
+  version: 1.0
